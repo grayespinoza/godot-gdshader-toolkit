@@ -1,0 +1,11 @@
+name: godot-gdshader-linter
+description: GitHub Action to install godot-gdshader-linter, a GDShader linter
+author: Gray Espinoza
+
+branding:
+  icon: align-left
+  color: black
+
+inputs:
+  version:
+    description: version of godot-gdshader-linter to install
