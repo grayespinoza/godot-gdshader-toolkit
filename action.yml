@@ -1,5 +1,5 @@
-name: godot-gdshader-linter
-description: GitHub Action to install godot-gdshader-linter, a GDShader linter
+name: godot-gdshader-toolkit
+description: GitHub Action to install Godot GDShader Toolkit
 author: Gray Espinoza
 
 branding:
@@ -8,4 +8,4 @@ branding:
 
 inputs:
   version:
-    description: version of godot-gdshader-linter to install
+    description: version of Godot GDShader Toolkit to install
