@@ -1,0 +1,22 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "12:00"
+      timezone: "US/Pacific"
+    assignees:
+      - "grayespinoza"
+    commit-message:
+      prefix: "pip"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "12:00"
+      timezone: "US/Pacific"
+    assignees:
+      - "grayespinoza"
+    commit-message:
+      prefix: "github-actions"
