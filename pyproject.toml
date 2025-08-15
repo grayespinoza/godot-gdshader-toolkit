@@ -8,7 +8,7 @@ version = "0.0.0"
 description = "A GDShader toolkit"
 authors = [{ name = "Gray Espinoza", email = "grey@grayespinoza.dev" }]
 readme = "README.md"
-requires-python = ">=3.09"
+requires-python = ">=3.9"
 license = { file = "LICENSE" }
 keywords = [
     "Godot",
@@ -23,7 +23,7 @@ classifiers = [
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3 :: Only",
-    "Programming Language :: Python :: 3.09",
+    "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
